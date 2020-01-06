@@ -15,10 +15,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  // "bugs": {
-  //   "url": "https://github.com/dimz13/FriendFinder/issues"
-  // },
-  // "homepage": "https://github.com/dimz13/FriendFinder#readme",
+  "bugs": {
+    "url": "https://github.com/dimz13/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/dimz13/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
